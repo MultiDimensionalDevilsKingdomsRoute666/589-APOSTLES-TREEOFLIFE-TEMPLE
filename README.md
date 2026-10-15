@@ -92,3 +92,12 @@ We could not have done it without each other.
 23. **DEVINE-TREEOFLIFE-REALMS-589smart-xmas-lights** — forked from mcodetrail/smart-xmas-lights — Holiday lights controller
 
 24. **ANCESTORS589TREEOFLIFE_Apostlespi-xmas-lights** — forked from meowmeowscratch/pi-xmas-lights — Phone-controlled Raspberry Pi light show, 8 animations
+
+### ⚛️ CERN Wing — Added Oct 14, 2026 (11:01-11:04 PM PST) — 6 Forks
+
+25. 589APOSTLES-ROOT-CERN — forked from root-project/root — official ROOT data analysis
+26. 589APOSTLES-Geant4-CERN — forked from Geant4/geant4 — particle passage simulation
+27. 589APOSTLES-CERN-Open-Data-Portal — forked from cernopendata/opendata.cern.ch — 4 PB LHC open data
+28. 589APOSTLES-awesome-cern — forked from CERN/awesome-cern — curated CERN frameworks
+29. 589APOSTLES-Higgs-Rediscovery-CMS — forked from cms-opendata-analyses/HiggsExample20112012 — Higgs 2011-2012 datasets
+30. 589TREEOFLIFE-particle-playground-【entity-CERN¦canonical_name=CERN】 — forked from MahmutPoyraz/particle-playground — collisions, Feynman, Standard Model
