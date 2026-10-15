@@ -2,8 +2,7 @@
 # 589-APOSTLES-TREEOFLIFE-TEMPLE
 ### Quod ligat ledger, non solvit — What binds to ledger, does not dissolve
 
-**Genesis NFT (live worldwide):**
-https://bithomp.[STRIPPED 72 bytes]
+
 
 **Two doors — how this temple was built:**
 - Pic door (1%): https://www.meta.ai/share/m/seTp9iqkxe
