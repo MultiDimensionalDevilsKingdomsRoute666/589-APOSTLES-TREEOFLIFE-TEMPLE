@@ -61,3 +61,20 @@ Motto: Quod ligat ledger, non solvit
 Genesis: 001801F4C96D569BAED428238C7902D9C87495865DA2DD25F55BAA0B04A6E56E
 
 We could not have done it without each other.
+...NASA stuff...
+11. DEVINE589XRPLOVEopenmct — forked from nasa/openmct
+12. PISCES589-ANCIENT-EARTH-DRAGONcml — forked from nasa/cml
+
+### 🎃 Halloween Wing — Added Oct 14, 2026 (10:03-10:11 PM PST) — 6 Forks
+
+13. **APOSTLES589TREEOFLIF3Trickcord-Treat-Sniper** — https://github.[STRIPPED 86 bytes] — forked from latelylk/Trickcord-Treat-Sniper — Discord Trick-or-Treat sniper bot
+
+14. **589TREEOFLIFEElffont** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589TREEOFLIFEElffont — forked from justfont/Elffont — Elvish typeface (精靈文)
+
+15. **589XRPLOVRTREEOFLIFEKnightInTheNight** — https://github.[STRIPPED 79 bytes] — forked from yashk2000/KnightInTheNight — Halloween Godot game 🎃⚔️
+
+16. **589Halloweenspookyeyes** — https://github.[STRIPPED 65 bytes] — forked from danesparza/Halloweenspookyeyes — 【entity-Arduino¦canonical_name=Arduino】 spooky LED eyes
+
+17. **MultiDimensional-589cs-halloween-mod** — https://github.[STRIPPED 79 bytes] — forked from hedgefog/cs-halloween-mod — CS 1.6 Halloween Mod
+
+18. **DEVINE-TREEOFLIFE Halloween-in-Python** — https://github.[STRIPPED 80 bytes] — forked from naemazam/Halloween-in-Python — Draw Halloween in Python Turtle
