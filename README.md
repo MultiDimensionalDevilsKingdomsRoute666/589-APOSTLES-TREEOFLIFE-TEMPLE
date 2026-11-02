@@ -18,7 +18,7 @@ https://treeoflife-apostles.github.io/holo-tarot/
 ### THE 10 FORKS — The Temple Pillars
 
 **1. Pilot-Wave / Bohmian Mechanics**
-- `589ANCIENTEARTHDRAGONbohm-double-slit` — https://github.[STRIPPED 80 bytes]
+- `589ANCIENTEARTHDRAGONbohm-double-slit` — https://github.com/TREEOFLIFE-APOSTLES/589ANCIENTEARTHDRAGONbohm-double-slit
   Forked from m4cd4r4/bohm-double-slit — interactive pilot wave + quantum potential Q
 
 **2. Field Topology**
@@ -30,7 +30,7 @@ https://treeoflife-apostles.github.io/holo-tarot/
   Forked from manolitopere/quantum-trajectories — RNN quantum Hamilton-Jacobi solver
 
 **4. Ternary / Consciousness Collapse**
-- `589-APOSTLES-TREEOFLIFE-MAGICAL-trinity` — https://github.[STRIPPED 82 bytes]
+- `589-APOSTLES-TREEOFLIFE-MAGICAL-trinity` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589-APOSTLES-TREEOFLIFE-MAGICAL-trinity
   Forked from gHashTag/trinity — The Trinity ternary compute stack
 
 **5. Wigner & Paradox**
@@ -67,17 +67,17 @@ We could not have done it without each other.
 
 ### 🎃 Halloween Wing — Added Oct 14, 2026 (10:03-10:11 PM PST) — 6 Forks
 
-13. **APOSTLES589TREEOFLIF3Trickcord-Treat-Sniper** — https://github.[STRIPPED 86 bytes] — forked from latelylk/Trickcord-Treat-Sniper — Discord Trick-or-Treat sniper bot
+13. **APOSTLES589TREEOFLIF3Trickcord-Treat-Sniper** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/APOSTLES589TREEOFLIF3Trickcord-Treat-Sniper — forked from latelylk/Trickcord-Treat-Sniper — Discord Trick-or-Treat sniper bot
 
 14. **589TREEOFLIFEElffont** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589TREEOFLIFEElffont — forked from justfont/Elffont — Elvish typeface (精靈文)
 
-15. **589XRPLOVRTREEOFLIFEKnightInTheNight** — https://github.[STRIPPED 79 bytes] — forked from yashk2000/KnightInTheNight — Halloween Godot game 🎃⚔️
+15. **589XRPLOVRTREEOFLIFEKnightInTheNight** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589XRPLOVRTREEOFLIFEKnightInTheNight — forked from yashk2000/KnightInTheNight — Halloween Godot game 🎃⚔️
 
-16. **589Halloweenspookyeyes** — https://github.[STRIPPED 65 bytes] — forked from danesparza/Halloweenspookyeyes — 【entity-Arduino¦canonical_name=Arduino】 spooky LED eyes
+16. **589Halloweenspookyeyes** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589Halloweenspookyeyes — forked from danesparza/Halloweenspookyeyes — 【entity-Arduino¦canonical_name=Arduino】 spooky LED eyes
 
-17. **MultiDimensional-589cs-halloween-mod** — https://github.[STRIPPED 79 bytes] — forked from hedgefog/cs-halloween-mod — CS 1.6 Halloween Mod
+17. **MultiDimensional-589cs-halloween-mod** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/MultiDimensional-589cs-halloween-mod — forked from hedgefog/cs-halloween-mod — CS 1.6 Halloween Mod
 
-18. **DEVINE-TREEOFLIFE Halloween-in-Python** — https://github.[STRIPPED 80 bytes] — forked from naemazam/Halloween-in-Python — Draw Halloween in Python Turtle
+18. **DEVINE-TREEOFLIFE Halloween-in-Python** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/DEVINE-TREEOFLIFE-MAGICAL-APOSTLES-Halloween-in-Python — forked from naemazam/Halloween-in-Python — Draw Halloween in Python Turtle
 
 ### 🎄 Christmas Wing — Added Oct 14, 2026 (10:45-10:51 PM PST) — 6 Forks
 
