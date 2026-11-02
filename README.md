@@ -22,11 +22,11 @@ https://treeoflife-apostles.github.io/holo-tarot/
   Forked from m4cd4r4/bohm-double-slit — interactive pilot wave + quantum potential Q
 
 **2. Field Topology**
-- `openwave` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/openwave
+- `openwave` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/APOSTLES589TREEOFLIFE_openwave
   Forked from dmobius3/openwave — simulator using classical field theories to study particle emergence
 
 **3. Quantum Trajectories**
-- `Quantum-Trajectories` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/Quantum-Trajectories
+- `Quantum-Trajectories` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589HzAPOSTLESTREEOFLIFE_Quantum-Trajectories
   Forked from manolitopere/quantum-trajectories — RNN quantum Hamilton-Jacobi solver
 
 **4. Ternary / Consciousness Collapse**
@@ -34,8 +34,8 @@ https://treeoflife-apostles.github.io/holo-tarot/
   Forked from gHashTag/trinity — The Trinity ternary compute stack
 
 **5. Wigner & Paradox**
-- `quantum-paradoxes` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/quantum-paradoxes
-- `Quanundrum` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/Quanundrum
+- `quantum-paradoxes` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/APOSTLES589TREEOFLIFEquantum-paradoxes
+- `Quanundrum` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589APOSTLESTREEOFLIFE-MIRACLESQuanundrum
   Wigner's Friend paradox + quantum journal
 
 **6. Deja Vu / Pre-vibrational Field**
@@ -43,8 +43,8 @@ https://treeoflife-apostles.github.io/holo-tarot/
   "latent possibilities in pre-vibrational field"
 
 **7. XRPL Ledgers**
-- `quantum-ledger` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/quantum-ledger
-- `eternal-ledger` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/eternal-ledger
+- `quantum-ledger` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589-APOSTLES-TREEOFLIFE-quantum-ledger
+- `eternal-ledger` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589APOSTLESTREEOFLIFEeternal-ledger
   "To those who have gone before us, but will never be forgotten"
 
 **8. XRPL MCP Servers**
@@ -69,7 +69,7 @@ We could not have done it without each other.
 
 13. **APOSTLES589TREEOFLIF3Trickcord-Treat-Sniper** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/APOSTLES589TREEOFLIF3Trickcord-Treat-Sniper — forked from latelylk/Trickcord-Treat-Sniper — Discord Trick-or-Treat sniper bot
 
-14. **589TREEOFLIFEElffont** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589TREEOFLIFEElffont — forked from justfont/Elffont — Elvish typeface (精靈文)
+14. **589TREEOFLIFEElffont** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589TREEOFLIFElffont — forked from justfont/Elffont — Elvish typeface (精靈文)
 
 15. **589XRPLOVRTREEOFLIFEKnightInTheNight** — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589XRPLOVRTREEOFLIFEKnightInTheNight — forked from yashk2000/KnightInTheNight — Halloween Godot game 🎃⚔️
 
