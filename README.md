@@ -39,7 +39,7 @@ https://treeoflife-apostles.github.io/holo-tarot/
   Wigner's Friend paradox + quantum journal
 
 **6. Deja Vu / Pre-vibrational Field**
-- `589APOOSTLES-ANCESTORS-TREEOFLIFE-Deja_Vu` — https://github.[STRIPPED 84 bytes]
+- `ANCESTORS-589TREEOFLIFE_Deja_Vu` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/ANCESTORS-589TREEOFLIFE_Deja_Vu
   "latent possibilities in pre-vibrational field"
 
 **7. XRPL Ledgers**
@@ -50,7 +50,7 @@ https://treeoflife-apostles.github.io/holo-tarot/
 **8. XRPL MCP Servers**
 - `589DOUBLE007XRPL-MCP` — https://github.com/JESUSBURNING/589DOUBLE007XRPL-MCP
   Forked from Sigma-XRPL/XRPL-MCP
-- `589APOOSTLES-ANCESTORS-TREEOFLIFE-mcp-xrpl` — https://github.[STRIPPED 85 bytes]
+- `589APOOSTLES-ANCESTORS-TREEOFLIFE-mcp-xrpl` — https://github.com/MultiDimensionalDevilsKingdomsRoute666/589APOOSTLES-ANCESTORS-TREEOFLIFE-mcp-xrpl
   Forked from hliosone/mcp-xrpl
 
 ---
